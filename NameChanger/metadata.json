@@ -1,0 +1,8 @@
+{
+    "name": "NameChanger",
+    "creator": "napi",
+    "description": "Allows you to change your Minecraft IGN in chat, Minecraft color codes work",
+    "version": "1.0.0",
+    "entry": "index.js",
+    "requires": ["PogData"]
+}
